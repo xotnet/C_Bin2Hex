@@ -1,4 +1,4 @@
-# C_UnsignedCharToHex
+# C bin2hex
 You can use this header to convert unsigned char* to HEX, or If you're sensible, just use std::hex
 
 **Usage example**
